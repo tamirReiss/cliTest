@@ -1,0 +1,15 @@
+outs:
+- md5: 897316929176464ebc9ad085f31e7284
+  size: 2
+  path: file_0.txt
+meta:
+  hkube:
+    id: cli-rwka
+    name: file_0.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 200 
+      first test 
+    uploadedAt: 1617870619453
+    hash: 897316929176464ebc9ad085f31e7284

@@ -1,0 +1,15 @@
+outs:
+- md5: 26ab0db90d72e28ad0ba1e22ee510510
+  size: 2
+  path: file_2.txt
+meta:
+  hkube:
+    id: cli-5vc3
+    name: file_2.txt
+    size: 2
+    type: text/plain
+    meta: |
+      first 200 
+      first test 
+    uploadedAt: 1617870619458
+    hash: 26ab0db90d72e28ad0ba1e22ee510510

@@ -1,0 +1,13 @@
+outs:
+- md5: 458c096199bff551d066564e060a4fa4
+  size: 23
+  path: file_2.txt.meta
+meta:
+  hkube:
+    id: cli-pxa2
+    name: file_2.txt.meta
+    size: 23
+    type: ''
+    meta: ''
+    uploadedAt: 1617870619458
+    hash: 458c096199bff551d066564e060a4fa4
