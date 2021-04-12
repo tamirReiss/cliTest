@@ -4,12 +4,12 @@ outs:
   path: file_3.txt
 meta:
   hkube:
-    id: cli-b3ip
+    id: cli-5i2f
     name: file_3.txt
     size: 2
     type: text/plain
     meta: |
       first 200 
       first test 
-    uploadedAt: 1617870619459
+    uploadedAt: 1618218492868
     hash: 6d7fce9fee471194aa8b5b6e47267f03

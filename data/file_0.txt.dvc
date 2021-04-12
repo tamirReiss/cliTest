@@ -4,12 +4,12 @@ outs:
   path: file_0.txt
 meta:
   hkube:
-    id: cli-rwka
+    id: cli-tch2
     name: file_0.txt
     size: 2
     type: text/plain
     meta: |
       first 200 
       first test 
-    uploadedAt: 1617870619453
+    uploadedAt: 1618218492860
     hash: 897316929176464ebc9ad085f31e7284
